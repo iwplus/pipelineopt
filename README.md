@@ -5,4 +5,4 @@ The simulation process is done using _**epanettools**_ package
 
 Contributors:
 1. Parizal Hidayatullah
-2. Irwansyah
+2. Irwansyah (@iwplus)
